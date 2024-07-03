@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: sans-serif;
+    background-image: url(Images/head-cover.webp);
+    background-position: center;
+    padding: 40px;
+}
+.question{
+    font-size: 25px;
+    font-weight: bold;
+}
+.paragraph{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* border: 3px solid violet; */
+    padding: 8px;
+    background-color: #F2F7F6;
+}
+h3{
+    background-color: #E8E8E8;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    border-left: 15px solid black;
+    border-radius: 7px;
+    margin-right: 340px;
+}
+#cox{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 7px;
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
